@@ -1,8 +1,12 @@
 # Decoding of multisensory semantics and memories in low-level visual cortex
 
-## Sample Size
+## Abstract
 
-12
+Ample evidence indicates that recognition memory performance can be facilitated by multisensory stimuli at the time of encoding. While it is not necessary that multisensory information is present during the decoding of a memory, a beneficial effect of the multisensory stimulation only takes place if the initial encoding happened in a semantically congruent audio-visual context. The goal of this study was to investigate the brain mechanisms involved during the encoding and subsequent retrieval of semantically congruent multisensory objects. In a functional MRI paradigm, participants performed a continuous recognition task in which they discriminated between initially and previously seen objects. The task was independent of the semantic congruence of the sound with the initially shown image. We performed a univariate analysis to identify regions involved in the information processing of semantic context dependent multisensory memory traces. Next, a multivariate pattern analysis (MVPA) located where the representational content of these traces is encoded and later again retrieved. We show that low-level visual cortex can reliably decode whether incoming visual stimuli had been previously encountered on a single-trial with either a semantically congruent or incongruent sound. Aside from further reinforcing the notion that low-level visual cortex is fundamentally multisensory in its architecture, our findings suggest that these functions extend to include both semantically-related and memory-related functions.
+
+## Paper
+
+Detailed information about participants, behavioral task and data acquisition can be taken from the paper: ...
 
 ## Defacing
 
