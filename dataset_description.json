@@ -1,15 +1,9 @@
 {
-    "Name": "Audio-Visual Memory in the Context of Multisensory Integration",
-    "BIDSVersion": "1.1.0",
-    "License": "",
+    "Name": "Decoding of multisensory semantics and memories in low-level visual cortex",
     "Authors": [
-        "Michael Philipp Notter",
+        "Michael P Notter",
         "Sandra Da Costa",
         "Micah M Murray"
     ],
-    "HowToAcknowledge": "",
-    "Funding": "",
-    "ReferencesAndLinks": [
-        ""
-    ]
+    "Funding": "This work was supported by Swiss National Science Foundation (grant numbers 169206, 149982, 133136, 118419, and 105680 to M.M.M.). Infrastructural support for the Centre d’Imagerie BioMédicale (CIBM) was provided by the University and University Hospital Center of Lausanne, the University and University Hospital Center of Geneva, and the Swiss Federal Institute of Technology of Lausanne, as well as the Leenards and Jeantet Foundations."
 }
