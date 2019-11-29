@@ -8,5 +8,7 @@
     "Funding": [
         "Swiss National Science Foundation (grant numbers 169206, 149982, 133136, 118419, and 105680 to M.M.M.)"
     ],
-    "BIDSVersion": "1.1.0"
+    "BIDSVersion": "1.1.0",
+    "HowToAcknowledge": "Please cite our paper available on: TBD",
+    "License": "CC0"
 }
