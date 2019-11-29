@@ -24,7 +24,7 @@ Stimuli were presented in sessions of 64 trials, with equal likelihood of initia
 
 Each subject folder contains a TSV file per functional run, containing the stimuli onset, its duration, which condition it is {1: 'AVc', 2: 'AVi',  3: 'V', 4: 'V+c', 5: 'V+i', 6: 'V-'}, what the target response should be {1: 'new', 2: 'already seen'}, what the response from the subject was {1: 'new', 2: 'already seen', -1: 'no response'}, if the response was correct, what the reaction time was, and which stimuli image was used.
 
-## Data Acquisition
+## Data Acquisition
 
 Structural and functional images were collected on a 3 Tesla Siemens TrioTim scanner equipped with an 8-channel head coil at the Center for Biomedical Imaging (CIBM) at the Univer-sity Hospital Lausanne (CHUV). A 3-dimensional high-resolution isotropic T1-weighted se-quence provided 160 contiguous, anatomical slices (MPRAGE; TR/TE/flip angle = 1480ms/3.42ms/15°; 256 x 256mm in-plane resolution; a slice thickness of 1 mm; voxel size = 1x1x1 mm). Functional MRI images were continuously acquired using a standard gradient echo sequence (TR/TE/flip angle = 2007.5ms/30ms/90°) with 36 axial functional images (224x224mm in-plane resolution; 3 mm slice thickness; 0.30 mm inter-slice gap; voxel size = 3.50 × 3.50 × 3.30mm) acquired in descending order covering the whole brain. For each subject four separate sessions were recorded, each having 275 volumes.
 
