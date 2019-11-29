@@ -1,0 +1,27 @@
+# Audio-Visual Memory
+
+## Aims:
+
+Needs to be specified.
+
+## Methods
+
+*Behavior task:* Needs to be specified.
+
+*fMRI:* Needs to be specified.
+
+## General findings and importance:
+
+Needs to be specified.
+
+## Sample Size
+
+Needs to be specified.
+
+## Defacing
+
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code can be found at https://github.com/poldracklab/pydeface
+
+## Quality Control
+
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
